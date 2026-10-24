@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-265
-description: "Create XXD Panel 265 raster artwork: a faithful photograph paired with a small whimsical botanical mark that seals the subject as one emotional logo in wide white space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-265 or asks for this 植物徽记 style."
+description: "XXD Panel 265｜Botanical Emblem: compresses the subject of a photo into one small symbolic mark like a badge, seal or emotional logo — a simplified, rounded, gentle outline embraced by a protective ring of flowers, leaves, halos or natural motifs that suggest companionship, care, growth or memory, drawn with fine hand lines, soft watercolour, light paper texture and imperfect edges in a naive yet restrained manner, in a soft clear palette of powder blue, misty violet, cream, plant green, pale yellow and soft coral from the photo, a single visual centre in extreme white space, and one tiny word or symbolic note. Not a commercial logo template or cartoon icon. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-265 or asks for whimsical botanical emblem, folk mark or watercolour badge design from a photo."
 ---
 
 # XXD Panel 265

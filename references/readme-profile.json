@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 265｜Botanical Emblem: compresses the subject of a photo into one small symbolic mark like a badge, seal or emotional logo — a simplified, rounded, gentle outline embraced by a protective ring of flowers, leaves, halos or natural motifs that suggest companionship, care, growth or memory, drawn with fine hand lines, soft watercolour, light paper texture and imperfect edges in a naive yet restrained manner, in a soft clear palette of powder blue, misty violet, cream, plant green, pale yellow and soft coral from the photo, a single visual centre in extreme white space, and one tiny word or symbolic note. Not a commercial logo template or cartoon icon. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-265 or asks for whimsical botanical emblem, folk mark or watercolour badge design from a photo.",
+  "short_description": "植物徽记：把照片主体收成一枚花叶围合的小型徽记，悬在极端留白里",
+  "zh-CN": {
+    "name": "植物徽记",
+    "tagline": "把照片主体收成一枚花叶围合的小徽记，像一个被保存下来的私人印记。",
+    "look": "主体只留最核心的识别元素，简化成圆润、温柔的轮廓，再被花朵、枝叶、光环或自然纹样轻轻围起来，像一层守护；这些植物表达陪伴、生长或记忆，不是随手堆上的花草。用细腻的手绘线、柔和水彩、轻微纸纹和不完美的边缘画成，带一点稚拙感，但很克制。颜色从照片取，调成粉蓝、雾紫、奶油白、植物绿、浅黄、柔珊瑚这样清透亲和的几种。整个下半只有这一个小符号，居中、偏心或轻轻漂浮在大片空白里，旁边可以有一个极短的词或小注记。",
+    "traits": ["植物徽记", "象征标志", "植物围合", "小符号", "极端留白", "柔和水彩"],
+    "good": [
+      "适合做成标记的单个主体：一只狐狸、一只猫头鹰、一个茶壶、一座小屋",
+      "带陪伴或守护感的对象：一只宠物、一个孩子的背影、一棵小树苗",
+      "想做成私人印章、店铺标记、贴纸或收藏卡的照片"
+    ],
+    "poor": [
+      "想保留完整场景或背景的照片，只会剩一个小徽记",
+      "形状本身难以辨认的主体，简化后容易认不出来",
+      "想要标准商业 Logo、卡通图标或完美矢量效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Botanical Emblem",
+    "tagline": "Turns your subject into a small emblem embraced by flowers and leaves, like a long-kept private mark.",
+    "look": "The subject keeps only its core identifying features, simplified into a rounded, gentle outline and lightly encircled by flowers, leaves, a halo or natural motifs like a protective layer; the plants speak of companionship, growth or memory rather than being scattered decoration. It is drawn with fine hand lines, soft watercolour, light paper texture and imperfect edges, a little naïve yet restrained. Colours come from the photo and are tuned into a few clear, friendly ones such as powder blue, misty violet, cream, plant green, pale yellow and soft coral. This one small symbol is the only centre, sitting centred, off-centre or gently floating in wide white space, with perhaps one very short word or tiny note nearby.",
+    "traits": ["Botanical emblem", "Symbolic mark", "Plant surround", "Small symbol", "Extreme white space", "Soft watercolour"],
+    "good": [
+      "A single subject that works as a mark: a fox, an owl, a teapot, a cottage",
+      "Subjects that suggest companionship or care: a pet, a child seen from behind, a young sapling",
+      "Photos you want as a personal seal, shop mark, sticker or collector's card"
+    ],
+    "poor": [
+      "Photos where you want the full scene or background kept; only a small emblem remains",
+      "Subjects whose shape is hard to read, which may become unrecognisable when simplified",
+      "Requests for a standard commercial logo, cartoon icon or perfect vector look"
+    ]
+  },
+  "ja": {
+    "name": "植物の紋章",
+    "tagline": "写真の主役を、花と葉に囲まれた小さな紋章にします。長く大切にされてきた個人の印のように。",
+    "look": "主役はいちばん大切な特徴だけを残し、丸くやさしい輪郭に簡略化して、花、枝葉、光の輪、自然の文様でそっと囲み、守るような層をつくります。植物は寄り添い、育ち、記憶を表すもので、ただ散らした飾りではありません。細やかな手描きの線、やわらかな水彩、うっすらとした紙の目、不完全な縁で描き、少し素朴ながら控えめです。色は写真から取り、パウダーブルー、霧のような紫、生成り、草の緑、淡い黄色、やわらかなコーラルなど、澄んで親しみやすい数色にします。この小さな記号だけが唯一の中心で、中央に、あるいは少しずらして、広い余白にそっと浮かびます。そばにごく短い言葉や小さな注記を添えることもできます。",
+    "traits": ["植物の紋章", "象徴的なマーク", "植物の囲み", "小さな記号", "極端な余白", "やわらかな水彩"],
+    "good": [
+      "マークにしやすい一つの主役：キツネ、フクロウ、ティーポット、小屋",
+      "寄り添いや見守りを感じるもの：ペット、子どもの後ろ姿、若い苗木",
+      "個人の印、お店のマーク、ステッカー、コレクションカードにしたい写真"
+    ],
+    "poor": [
+      "場面全体や背景を残したい写真（残るのは小さな紋章一つです）",
+      "形そのものが読み取りにくい主役（簡略化するとわからなくなることがあります）",
+      "標準的な商業ロゴ、アニメ調のアイコン、完璧なベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "식물 휘장",
+    "tagline": "사진 속 주인공을 꽃과 잎에 둘러싸인 작은 휘장으로 만듭니다. 오래 간직해 온 개인의 표식처럼.",
+    "look": "주인공은 가장 핵심적인 특징만 남겨 둥글고 다정한 윤곽으로 단순화하고, 꽃, 가지와 잎, 빛의 고리, 자연 문양으로 살며시 감싸 지켜 주는 층을 만듭니다. 식물은 곁에 있음, 자람, 기억을 말하며 아무렇게나 흩뿌린 장식이 아닙니다. 섬세한 손그림 선, 부드러운 수채, 옅은 종이 결, 불완전한 가장자리로 그려 조금 천진하지만 절제되어 있습니다. 색은 사진에서 가져와 파우더 블루, 안개 낀 보라, 크림색, 풀빛 초록, 연노랑, 부드러운 코랄처럼 맑고 친근한 몇 가지로 맞춥니다. 이 작은 기호 하나만이 중심이며, 가운데나 살짝 비켜서 넓은 여백에 가볍게 떠 있고, 옆에 아주 짧은 단어나 작은 메모를 둘 수 있습니다.",
+    "traits": ["식물 휘장", "상징 마크", "식물로 감싸기", "작은 기호", "극단적 여백", "부드러운 수채"],
+    "good": [
+      "마크로 만들기 좋은 주인공 하나: 여우, 부엉이, 찻주전자, 오두막",
+      "곁에 있음이나 지켜 줌이 느껴지는 대상: 반려동물, 아이의 뒷모습, 어린 묘목",
+      "개인 인장, 가게 마크, 스티커, 소장 카드로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체나 배경을 살리고 싶은 사진(작은 휘장 하나만 남습니다)",
+      "형태 자체를 알아보기 어려운 주인공(단순화하면 알아보지 못할 수 있습니다)",
+      "표준적인 상업 로고, 만화풍 아이콘, 완벽한 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الشعار النباتي",
+    "tagline": "يحوّل عنصر صورتك إلى شعار صغير تحتضنه الزهور والأوراق، كعلامة شخصية محفوظة منذ سنوات.",
+    "look": "لا يحتفظ العنصر إلا بملامحه الأساسية، ويُبسَّط إلى خط خارجي مستدير لطيف تحيط به بخفة زهور أو أغصان وأوراق أو هالة أو زخارف طبيعية كطبقة حماية؛ فالنباتات هنا تعبّر عن الرفقة أو النمو أو الذكرى ولا تُنثر للزينة. يُرسم بخطوط يدوية دقيقة وألوان مائية ناعمة وملمس ورق خفيف وحواف غير متقنة، فيه شيء من الفطرية مع التحفّظ. تُؤخذ الألوان من الصورة وتُضبط في ألوان قليلة صافية ودودة مثل الأزرق البودري والبنفسجي الضبابي والكريمي وأخضر النبات والأصفر الباهت والمرجاني الناعم. هذا الرمز الصغير هو المركز الوحيد، في الوسط أو بعيداً عنه قليلاً أو طافياً بلطف في فراغ أبيض واسع، وقد تجاوره كلمة قصيرة جداً أو ملاحظة صغيرة.",
+    "traits": ["شعار نباتي", "علامة رمزية", "إحاطة نباتية", "رمز صغير", "فراغ أبيض شديد", "ألوان مائية ناعمة"],
+    "good": [
+      "عنصر واحد يصلح علامةً: ثعلب، بومة، إبريق شاي، كوخ",
+      "عناصر توحي بالرفقة أو الرعاية: حيوان أليف، طفل من الخلف، شتلة صغيرة",
+      "صور تريدها ختماً شخصياً أو علامة لمتجر أو ملصقاً أو بطاقة للمقتنين"
+    ],
+    "poor": [
+      "صور تريد الاحتفاظ بمشهدها أو خلفيتها كاملة؛ لا يبقى إلا شعار صغير",
+      "عناصر يصعب قراءة شكلها، فقد يتعذّر تمييزها بعد التبسيط",
+      "طلب شعار تجاري تقليدي أو أيقونة كرتونية أو رسم متجهي مثالي"
+    ]
+  }
+}
